@@ -28,9 +28,7 @@
                     <div class="our-team">
                         <img class="img-fluid" src="{{url('assets/img/shariful.jpg')}}" alt="" />
                         <div class="team-content">
-                            <a href="md.html">
-                                <h3 class="title">Md Shariful Islam</h3>
-                            </a>
+                            <h3 class="title">Md Shariful Islam</h3>
                             <span class="post">Managing Director</span>
                             <ul class="social">
                                 <li><a target="_blank" href="https://www.facebook.com/shariful7200"><i
