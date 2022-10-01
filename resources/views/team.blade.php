@@ -152,7 +152,7 @@
                         <img class="img-fluid" src="{{url('assets/img/nisha.jpg')}}" alt="" />
                         <div class="team-content">
                             <h3 class="title">Nisha Azmerry</h3>
-                            <span class="post">Apex Devoloper</span>
+                            <span class="post">Apex Developer</span>
                         </div>
                     </div>
                 </div>

@@ -14,21 +14,21 @@
         </ol>
         <div class="carousel-inner" role="listbox">
             <!-- Slide One - Set the background image for this slide in the line below -->
-            <div class="carousel-item active" style="background-image: url('assets/img/slider-01.jpg')">
+            <div class="carousel-item active" style="background-image: url('assets/img/istockphoto-105.jpg')">
                 <div class="carousel-caption d-none d-md-block">
                     <h3>Welcome to CrackIT Limited</h3>
                     <p>A Great software Consulting firm</p>
                 </div>
             </div>
             <!-- Slide Two - Set the background image for this slide in the line below -->
-            <div class="carousel-item" style="background-image: url('assets/img/slider-02.jpg')">
+            <div class="carousel-item" style="background-image: url('assets/img/istockphoto2.jpg')">
                 <div class="carousel-caption d-none d-md-block">
                     <h3>Best Consulting Services.</h3>
                     <p>A Great software Consulting firm</p>
                 </div>
             </div>
             <!-- Slide Three - Set the background image for this slide in the line below -->
-            <div class="carousel-item" style="background-image: url('assets/img/slider-03.jpg')">
+            <div class="carousel-item" style="background-image: url('assets/img/istockphoto612.jpg')">
                 <div class="carousel-caption d-none d-md-block">
                     <h3>Welcome to CrackIT</h3>
                     <p>A Great software Consulting firm</p>

@@ -26,10 +26,10 @@
             <div class="col-lg-4 mb-4">
                 <div class="card h-100 text-center">
                     <div class="our-team">
-                        <img class="img-fluid" src="{{url('assets/img/shariful.jpg')}}" alt="" />
+                        <img class="img-fluid" src="{{url('assets/img/sharif.jpg')}}" alt="" />
                         <div class="team-content">
                             <h3 class="title">Md Shariful Islam</h3>
-                            <span class="post">Managing Director</span>
+                            <span class="post">Managing Director (MD)</span>
                             <ul class="social">
                                 <li><a target="_blank" href="https://www.facebook.com/shariful7200"><i
                                             class="fab fa-facebook-f"></i></a></li>
