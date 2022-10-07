@@ -121,22 +121,22 @@
 					<div class="col-lg-12">
 						<div id="customers-slider" class="owl-carousel">
 							<div class="mb-4">
-								<img class="img-fluid" src="{{url('assets/img/logo_01.png')}}" alt="" />
+								<img class="img-fluid" src="{{url('assets/img/5m-removebg-preview.png')}}" alt="" />
 							</div>
 							<div class="mb-4">
-								<img class="img-fluid" src="{{url('assets/img/logo_02.png')}}" alt="" />
+								<img class="img-fluid" src="{{url('assets/img/abc-removebg-preview.png')}}" alt="" />
 							</div>
 							<div class="mb-4">
-								<img class="img-fluid" src="{{url('assets/img/logo_03.png')}}" alt="" />
+								<img class="img-fluid" src="{{url('assets/img/download-removebg-preview (1).png')}}" alt="" />
 							</div>
 							<div class="mb-4">
-								<img class="img-fluid" src="{{url('assets/img/logo_04.png')}}" alt="" />
+								<img class="img-fluid" src="{{url('assets/img/imagegrand_osman-removebg-preview.png')}}" alt="" />
 							</div>
 							<div class="mb-4">
-								<img class="img-fluid" src="{{url('assets/img/logo_05.png')}}" alt="" />
+								<img class="img-fluid" src="{{url('assets/img/metlife.png')}}" alt="" />
 							</div>
 							<div class="mb-4">
-								<img class="img-fluid" src="{{url('assets/img/logo_06.png')}}" alt="" />
+								<img class="img-fluid" src="{{url('assets/img/pran-removebg-preview.png')}}" alt="" />
 							</div>
 						</div>
 					</div>
